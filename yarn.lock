@@ -1249,10 +1249,10 @@
   dependencies:
     lodash "^4.17.15"
 
-"@loadable/webpack-plugin@^5.15.0":
-  version "5.15.0"
-  resolved "https://registry.yarnpkg.com/@loadable/webpack-plugin/-/webpack-plugin-5.15.0.tgz#2e8cb749faef79d958cb72761dbda6f3c25c6ff1"
-  integrity sha512-6eKaEqjGiMuMiazzVopbyMHrUflUkTOd29nUHaUmmbdo6FTGo+VqdBZ4Y1dvkEaa/b6NjkPTKbLdVmZvHVx2jg==
+"@loadable/webpack-plugin@^5.15.2":
+  version "5.15.2"
+  resolved "https://registry.yarnpkg.com/@loadable/webpack-plugin/-/webpack-plugin-5.15.2.tgz#460acf5dc0d56c6aef98c7d5f1c2be033422fa8d"
+  integrity sha512-+o87jPHn3E8sqW0aBA+qwKuG8JyIfMGdz3zECv0t/JF0KHhxXtzIlTiqzlIYc5ZpFs/vKSQfjzGIR5tPJjoXDw==
   dependencies:
     make-dir "^3.0.2"
 
@@ -1674,10 +1674,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/loadable__webpack-plugin@^5.7.3":
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.7.3.tgz#e27b42a4364d13fc34ec752d59ea1f8f75c0a881"
-  integrity sha512-jdOgIovGk9xcbU1Kyveiw9RVCBbHfv9U9AKOveop8Jk4JQQOPrafE7WHaNxotza08pH1YG6vHTV84xUL2W2F1Q==
+"@types/loadable__webpack-plugin@^5.7.6":
+  version "5.7.6"
+  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.7.6.tgz#87647a016db724bd4154bd7d3e06db357068441f"
+  integrity sha512-ATemiKdlC24N8Vm3E8S8J0udaMCfP6jMfriN8T8/RtdkrT9N7qnZ41xqpi9+B/4UxzIpu3VddN21qDWCsks3HQ==
   dependencies:
     "@types/webpack" "^4"
 
